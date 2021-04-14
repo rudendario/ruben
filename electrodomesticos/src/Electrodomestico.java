@@ -97,6 +97,7 @@ public class Electrodomestico {
 		System.out.println("Modelo: "+this.modelo);
 		System.out.println("Precio: "+this.precio);
 		System.out.println("Consumo: "+this.consumo);
+		System.out.println();
 	}
 	
 
